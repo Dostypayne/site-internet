@@ -1,0 +1,16 @@
+.list-inline {
+	display: flex;
+    padding: 0;
+    text-align: right;
+    justify-content: space-around;
+}
+
+.list-inline li {
+	list-style-type: none
+}
+
+.list-inline a {
+	color: black;
+	font-size: 20px;
+}
+
